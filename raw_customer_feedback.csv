@@ -1,0 +1,11 @@
+customer_id,customer_name,monthly_spend,support_tickets,tenure_months,feedback_text,signup_date
+101,Alice Smith,120.5,1,24,"Great service, very happy with the quality!",2024-01-15
+102,Bob Jones,,5,6,"Terrible experience, app keeps crashing and support is slow.",2024-06-20
+103,Charlie Brown,340.0,0,36,Average service. Works fine most days.,2023-03-10
+104,Diana Prince,15.0,12,2,"Horrible customer care, I want an immediate refund!",2024-11-01
+105,Evan Wright,15000.0,1,48,"Loved the platform, seamless integration and fast support.",2022-05-18
+106,Fiona Gallagher,89.9,8,1,"Frustrating interface, broken features everywhere.",2024-12-01
+107,George Clark,210.0,2,18,"It is okay, nothing special but gets the job done.",2023-09-14
+108,Hannah Abbott,,0,12,"Superb tool, increased our business productivity by 20%!",2024-02-28
+109,Ian Malcolm,450.0,15,3,"Constant downtime and errors, completely unusable.",2024-10-10
+110,Julia Roberts,110.0,3,30,Good overall value for money.,2023-11-20
